@@ -51,7 +51,6 @@ Expected output:
 
 ```
 🏁 Predicted 2025 Abu Dhabi GP Winner 🏁
-Driver: NOR, Predicted Race Time: 93.42s
 
 🏆 Predicted in the Top 3 🏆
 🥇 P1: LEC
