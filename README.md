@@ -8,7 +8,7 @@ Welcome to the Abu Dhabi GP 2025 prediction module! This project uses machine le
 
 This script implements a **Gradient Boosting Regressor** to predict the 2025 Abu Dhabi GP race results based on:
 
-* FastF1 API data for the 2024 Monaco GP
+* FastF1 API data for the 2024 Abu Dhabi GP
 * 2025 qualifying session times for Abu Dhabi
 * Driver clean air race pace
 * Team performance scores
@@ -23,7 +23,7 @@ It generates predicted lap times for each driver and ranks them to determine the
 
 * **FastF1 API**: Lap times, sector times, and race data
 * **2025 Qualifying Data**: Abu Dhabi GP qualifying session
-* **Historical Race Results**: From 2024 Monaco GP
+* **Historical Race Results**: From 2024 Abu Dhabi GP
 * **Weather API**: OpenWeatherMap forecast for Abu Dhabi
 
 ---
