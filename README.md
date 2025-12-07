@@ -65,10 +65,10 @@ Plots include:
 
 ## 📈 Model Performance
 
-• MAE: 0.987 s/lap
-• R²: -14.339
-• MAPE: 1.09%
-• Accuracy (from MAPE): 98.91%
+* MAE: 0.987 s/lap
+* R²: -14.339
+* MAPE: 1.09%
+* Accuracy (from MAPE): 98.91%
 
 ---
 
