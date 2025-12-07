@@ -52,6 +52,7 @@ py abu_dhabi_2025.py
 ![Alt text](Output/Predicted_Output.png)
 
 ## 🏁 Overall Output
+
 ![Alt text](https://github.com/Dhivakar2005/F1RacePredictor-2025/blob/main/Output/Full%20Output.png)
 
 
@@ -64,7 +65,10 @@ Plots include:
 
 ## 📈 Model Performance
 
-The **Mean Absolute Error (MAE)** is used to evaluate predictions. Lower values indicate more accurate predictions.
+• MAE: 0.987 s/lap
+• R²: -14.339
+• MAPE: 1.09%
+• Accuracy (from MAPE): 98.91%
 
 ---
 
