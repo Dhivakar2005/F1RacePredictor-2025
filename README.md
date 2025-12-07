@@ -47,14 +47,13 @@ Run the prediction script:
 py abu_dhabi_2025.py
 ```
 
-### Pre-Match Predicted Output:
+### 🏁Pre-Match Predicted Output:
 
 ![Alt text](Output/Predicted_Output.png)
 
-### Overall Output
+### 🏁Overall Output
 ![Alt text](https://github.com/Dhivakar2005/F1RacePredictor-2025/blob/main/Output/Full%20Output.png)
 
-Wait for the model’s predicted output, which will be uploaded soon. 
 
 Plots include:
 
