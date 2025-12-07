@@ -47,17 +47,13 @@ Run the prediction script:
 py abu_dhabi_2025.py
 ```
 
-Expected output:
+### Pre-Match Predicted Output:
 
-```
-🏁 Predicted 2025 Abu Dhabi GP Winner 🏁
+![Alt text](Output/Predicted_Output.png)
 
-🏆 Predicted in the Top 3 🏆
-🥇 P1: LEC
-🥈 P2: NOR
-🥉 P3: PIA
+### Overall Output
+![Alt text](https://github.com/Dhivakar2005/F1RacePredictor-2025/blob/main/Output/Full%20Output.png)
 
-```
 Wait for the model’s predicted output, which will be uploaded soon. 
 
 Plots include:
